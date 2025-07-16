@@ -36,8 +36,8 @@ pip install requests beautifulsoup4 google-generativeai
 ## Installation
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/reddit-persona-generator.git
-cd reddit-persona-generator
+git clone https://github.com/Tanuja137/Reddit.git
+cd Reddit
 ```
 **2. Install Dependencies**
 ```bash
