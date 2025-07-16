@@ -51,7 +51,7 @@ export GEMINI_API_KEY='your-api-key-here'
 ## Usage
 **Run the Script with**
 ```bash
-python reddit_persona_generator.py <reddit_url> [--gemini-api-key <key>] [--limit <number>] [--output-format <format>] [--output-file <filename>]
+python main.py <reddit_url> [--gemini-api-key <key>] [--limit <number>] [--output-format <format>] [--output-file <filename>]
 ```
 **Arguments**
 - **reddit_url**: Reddit user profile URL (e.g., https://www.reddit.com/user/username)
